@@ -1,0 +1,13 @@
+.btn-card {
+    color: #fff;
+    background-color: $btn-card-color;
+    font-weight: 500;
+    padding: 10px 30px;
+    border-radius: 10px;
+    &:hover {
+        opacity: 98%;
+    }
+    &:focus {
+        background-color: $btn-card-color;
+    }
+}

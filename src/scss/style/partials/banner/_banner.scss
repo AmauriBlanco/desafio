@@ -1,0 +1,21 @@
+.carousel-caption {
+    margin-bottom: 100px;
+    left: 10%;
+}
+
+.carousel-text {
+    width: 80%;
+    font-size: 3.2em;
+    font-weight: 700;
+}
+
+.carousel-indicators{
+    [data-bs-target]{
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+    }
+    .active {
+        background-color: $primary-color;
+    }
+}

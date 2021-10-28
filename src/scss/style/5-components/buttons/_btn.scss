@@ -1,0 +1,19 @@
+.btn-grey {
+    padding: 10px 40px;
+    font-family: $font-family-sans-serif;
+    color: #fff;
+    background-color: #bbbbbb69 ;
+    border: solid 1px #fff;
+    border-radius: 7px;
+    &:focus {
+        border: solid 3px #fff;
+        color: #fff;
+        transition: .1s;
+    }
+    &:hover {
+        opacity: 98%;
+        color: #fff;
+        font-weight: 600;
+        transition: .1s;
+    }
+}
