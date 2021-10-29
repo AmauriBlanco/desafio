@@ -8673,7 +8673,7 @@ progress {
 }
 
 .form-control {
-  background-image: url(/img/search.png);
+  background-image: url(/desafio/img/search.png);
   background-repeat: no-repeat;
   background-position: left;
   background-position-x: 5px;
@@ -8701,7 +8701,7 @@ progress {
 }
 
 .bg-image {
-  background-image: url(/img/image2.png);
+  background-image: url(/desafio/img/image2.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   color: #fff;
